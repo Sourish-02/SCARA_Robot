@@ -2,6 +2,13 @@
 
 A 4-DOF SCARA (Selective Compliance Assembly Robot Arm) developed as part of the MEP-1001: Manufacturing for Product Innovation course at IIT Delhi under the guidance of Prof. Pulak Mohan Pandey. The project involved the complete design, fabrication, electronics integration, and programming of a robotic arm capable of precise planar pick-and-place operations with an automated color-based sorting mechanism.
 
+## Project Information
+
+- **Course:** MEP-1001 – Manufacturing for Product Innovation
+- **Institution:** IIT Delhi
+- **Instructor:** Prof. Pulak Mohan Pandey
+- **Duration:** March 2026 – April 2026
+- **Team Size:** 6
 
 ## Features
 - 4-DOF SCARA robotic manipulator
